@@ -1,0 +1,9 @@
+*
+!.gitignore
+!dockerfiles/
+!dockerfiles/*
+!backup.sh
+!build.sh
+!mysql.sh
+!proxy.sh
+!tools
